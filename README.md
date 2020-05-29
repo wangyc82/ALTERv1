@@ -2,7 +2,7 @@
 
 # this procedure is to get the expanded lncRNA target genes, expanded TF target genes, and the lncRNA-TF associations
 
-# the main function is cTSVD, rise_lncRNA_coding is initial lncRNA target genes from RISE, and TF.gene.R1 is TF target genes from TTRUEST
+# the main function is cTSVD, rise_lncRNA_coding is initial lncRNA target genes from RISE (mouse-RISE-data.RData), and TF.gene.R1 is TF target genes from TTRUEST (mouse-TTRUST-data.RData)
 
 # Usage
 
